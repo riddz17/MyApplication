@@ -22,6 +22,8 @@ And this one also demonstrates Clean: https://github.com/glomadrian/MvpCleanArch
 The above two are going over the head now. So for now these are respectfully kept aside.just cloned to sometimes look at and get brain damage.
 
 
-So for now simply following the google sample and its fork and also this one:
+So for now simply following the google sample and its fork and also these:
 
 https://github.com/ribot/android-boilerplate
+
+http://saulmm.github.io/when-Thor-and-Hulk-meet-dagger2-rxjava-1
